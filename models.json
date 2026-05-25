@@ -1,0 +1,4 @@
+{
+   "clouds" : [  "qwen3-coder:480b-cloud" , "glm-4.6:cloud" , "gpt-oss:120b-cloud" , "nemotron-3-super:cloud"  ]
+
+}
