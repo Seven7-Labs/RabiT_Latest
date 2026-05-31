@@ -1,5 +1,6 @@
 {
    "clouds" : [  "qwen3-coder:480b-cloud" , "glm-4.6:cloud" , "gpt-oss:120b-cloud" , "nemotron-3-super:cloud" , "devstral-2:123b-cloud" ] ,
-   "updated" : "25-05-2026"
+   "allowed_size" : "5" ,
+   "last_updated" : "25-05-2026"
    
 }
