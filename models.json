@@ -1,5 +1,5 @@
 {
-   "clouds" : [  "qwen3-coder:480b-cloud" , "glm-4.6:cloud" , "gpt-oss:120b-cloud" , "nemotron-3-super:cloud" , "devstral-2:123b-cloud" , "minimax-m3:cloud" , "gemma4:31b-cloud" , "devstral-small-2:24b-cloud" ,
+   "clouds" : [  "qwen3-coder:480b-cloud" , "gpt-oss:120b-cloud" , "nemotron-3-super:cloud" , "devstral-2:123b-cloud" , "minimax-m3:cloud" , "gemma4:31b-cloud" , "devstral-small-2:24b-cloud" ,
      "nemotron-3-nano:30b-cloud" , "qwen3-coder-next:cloud" , "rnj-1:8b-cloud" , "minimax-m2.5:cloud" , "glm-4.7:cloud" , "qwen3-coder:480b-cloud" , "minimax-m2.1:cloud" , "gemma3:27b-cloud" , 
      "ministral-3:14b-cloud" ] ,
    "allowed_size" : "5" ,
