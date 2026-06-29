@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "dev_model": "beta release",
+  "os_focus": "debian",
+  "console": "none",
+  "curr_model": "O L L A M A",
+  "state": "inactive",
+  "patcher": "off",
+  "mentor": "off",
+  "failsafe": "off",
+  "enc_key": "demo",
+  "program_id": "RabiT-16022026-24042026",
+  "os_focus_version": "Linux 5.15.167.4-microsoft-standard-WSL2 x86_64 GNU/Linux",
+  "ollama_version": "0.17.4",
+  "organization": "Seven7 Labs",
+  "linked_in": "https://www.linkedin.com/in/chandan-kumar-raj/",
+  "github": "https://github.com/Seven7-Labs/",
+  "website": "https://seven7labs.com/",
+  "linkedin_company": "https://www.linkedin.com/company/113343117",
+  "update_url": "https://abcd.com"
+}
